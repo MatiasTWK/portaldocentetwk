@@ -1,0 +1,57 @@
+
+
+//AGREGAR EDITAR ALUMNOS DIURNO
+
+{
+    "nombre":"(nombre del alumno)",
+    "nlista":"(numero de lista)",
+    "asignaturas":[{
+        "_id":"6387f6f027792a593fb5de32"
+        },
+        {
+        "_id":"6387f71927792a593fb5de36"
+        },
+
+        {
+        "_id":"6387f73427792a593fb5de3a"
+        },
+
+        {
+        "_id":"6387f75c27792a593fb5de41",
+        
+        "notas":[{
+            "_id":"6387b91c6c0855df64b2837a"
+        }],
+        "asistencia":[{
+            "_id":"6387cc92627310686c07b385"
+        }]    
+    }]
+}
+
+//AGREGAR EDITAR ALUMNOS VESPERTINO
+
+{
+    "nombre":"(Nombre alumno)",
+    "nlista":"(Numero de lista)",
+    "asignaturas":[{
+        "_id":"638a422b855d5e6f39d38a70"
+        },
+        {
+        "_id":"638a42a1855d5e6f39d38a78"
+        },
+
+        {
+        "_id":"638a42d5855d5e6f39d38a7c"
+        },
+
+        {
+        "_id":"638a4314855d5e6f39d38a86",
+        
+        "notas":[{
+            "_id":"6387b91c6c0855df64b2837a"
+        }],
+        "asistencia":[{
+            "_id":"6387cc92627310686c07b385"
+        }]    
+    }]
+}
